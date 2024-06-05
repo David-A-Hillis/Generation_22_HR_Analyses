@@ -20,3 +20,10 @@ Included are additional scripts for calculating power, selection differential, a
 results. Graphical representations are also included in the scripts. Modifications of some of the 
 simulation parameters will create the need for modifications in some of these additional scripts.
 
+# Future Plans
+
+1 - Include additional analytical code from this manuscript
+2 - Update simulation code so that it is modular and not a bunch of loops
+3 - Update simulations to generate fewer intermediary files
+4 - Update analytical code for the simulations to better incorporate different simulation options 
+
