@@ -5,6 +5,13 @@ This code is based those used in:
 	and Theodore Garland Jr. “Large Changes in Detected Selection Signatures After a Selection Limit 
 	in Mice Bred for Voluntary Wheel-Running Behavior.” PLOS ONE, 2024.
 
+Data can be found either in the repositories described by the publications or at: 
+	https://drive.google.com/drive/u/1/folders/17xSxKyeow9FeMtOJFRn33ru976EUIgjD
+These data are allele frequency data for "WRF.R" under the "Statistical_and_Power_Analyses".
+Data included in these files are chromosome (column 1), base pair position (column 2), allele frequencies 
+for control lines (columns 3 through 6), and allele frequencies for High-Runner lines (columns 7 through 
+10).
+
 # Simulations
 Included here is code for conducting simulations of changes in allele frequency in unlinked loci subject
 in response to within family selection. These simulations consider family size, total pairings, both 
@@ -30,3 +37,11 @@ simulation parameters will create the need for modifications in some of these ad
 
 4 - Update analytical code for the simulations to better incorporate different simulation options 
 
+# Statistical and Power Analyses
+The code in this folder will conduct the windowed, regularized F-test described in Hillis et al. 2024.
+
+# Statistical and Power Analyses - Future Plans
+
+1 - Add modifications for parallelization
+
+2 - Add code for power analyses
