@@ -7,7 +7,7 @@ This code is based those used in:
 
 Data can be found either in the repositories described by the publications or at: 
 	https://drive.google.com/drive/u/1/folders/17xSxKyeow9FeMtOJFRn33ru976EUIgjD
-These data are allele frequency data for "WRF.R" under the "Statistical_and_Power_Analyses".
+These data are allele frequency data for "WRF_test.R" under the "Statistical_and_Power_Analyses".
 Data included in these files are chromosome (column 1), base pair position (column 2), allele frequencies 
 for control lines (columns 3 through 6), and allele frequencies for High-Runner lines (columns 7 through 
 10).
@@ -27,7 +27,7 @@ Included are additional scripts for calculating power, selection differential, a
 results. Graphical representations are also included in the scripts. Modifications of some of the 
 simulation parameters will create the need for modifications in some of these additional scripts.
 
-## Simulations Future Plans
+## Simulations - Future Plans
 
 1 - Include additional analytical code from this manuscript
 
