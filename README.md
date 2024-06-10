@@ -27,7 +27,7 @@ Included are additional scripts for calculating power, selection differential, a
 results. Graphical representations are also included in the scripts. Modifications of some of the 
 simulation parameters will create the need for modifications in some of these additional scripts.
 
-# Future Plans
+## Simulations Future Plans
 
 1 - Include additional analytical code from this manuscript
 
@@ -40,7 +40,7 @@ simulation parameters will create the need for modifications in some of these ad
 # Statistical and Power Analyses
 The code in this folder will conduct the windowed, regularized F-test described in Hillis et al. 2024.
 
-# Statistical and Power Analyses - Future Plans
+## Statistical and Power Analyses - Future Plans
 
 1 - Add modifications for parallelization
 
